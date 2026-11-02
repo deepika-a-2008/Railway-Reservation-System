@@ -1,9 +1,7 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No: 212225040058
+# Name: DEEPIKA A
 
 # AIM:
 To develop the Railway Reservation System using Star UML.
@@ -18,7 +16,6 @@ To develop the Railway Reservation System using Star UML.
 4.There is a need for an automated, centralized Railway Reservation System that provides real-time access to train schedules, seat availability, fare details, and booking status.
 
 5.The system should allow users to easily search trains, reserve or cancel tickets, view PNR status, and receive confirmation through SMS/email while ensuring secure payment processing.
-
 
 UML DIAGRAMS
 
@@ -39,11 +36,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+<img width="997" height="772" alt="image" src="https://github.com/user-attachments/assets/ef0e9bcf-8666-4c7d-afc3-7a4b50e739a4" />
 
 # CLASS DIAGRAM
 
@@ -59,7 +52,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+<img width="1002" height="772" alt="image" src="https://github.com/user-attachments/assets/7a0473b7-6aa8-404b-8e3f-7ebbef2f633e" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,8 +60,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+<img width="952" height="732" alt="image" src="https://github.com/user-attachments/assets/ab3a9c1e-7987-48f1-a48b-9664f6e4226a" />
 
 # PACKAGE DIAGRAM:
 
@@ -78,12 +70,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="947" height="663" alt="image" src="https://github.com/user-attachments/assets/dbe57dff-8896-42a7-bccf-5444b088ed4b" />
 
 # ACTIVITY DIAGRAM:
 
@@ -98,6 +85,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="856" height="776" alt="image" src="https://github.com/user-attachments/assets/d89da344-90d5-4e39-ba21-2990ac044c8f" />
 
 
 
@@ -117,11 +105,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-
-
-
-
-
+<img width="1022" height="783" alt="image" src="https://github.com/user-attachments/assets/2b74d37d-0330-4c9e-9498-36d19e6c4ac9" />
 
 # RESULT
 
